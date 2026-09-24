@@ -1,5 +1,3 @@
-# instagram
-https://www.figma.com/design/yFHG2iIxx5IFVR5N7kJciv/shopping-app?node-id=0-1&t=AyMuB9n2e90NZqKK-1
 
  ## Project Overview
  
@@ -54,6 +52,9 @@ Simple checkout process
 
 4.Profile
 <img width="150" height="300" alt="Profile" src="https://github.com/user-attachments/assets/45ae2ca7-5434-4aa1-a93a-2938baa9caee" />
+
+# Figma Prototype Link
+https://www.figma.com/design/yFHG2iIxx5IFVR5N7kJciv/shopping-app?node-id=0-1&t=AyMuB9n2e90NZqKK-1
 
 Developed By
 B.Petchi Priya
